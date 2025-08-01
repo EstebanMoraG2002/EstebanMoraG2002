@@ -4,7 +4,6 @@
 
 🔍 I’m passionate about continuous learning, clean code, and working in collaborative, agile environments to bring ideas to life.
 
----
 
 ## 🛠️ Languages & Tools
 
@@ -24,7 +23,6 @@
 **📦 Other Tools:**
 - Git | REST APIs | Postman | Jupyter Notebooks
 
----
 
 ## 🚀 What I'm Working On
 
@@ -33,13 +31,11 @@
 - 🧪 Developing data pipelines and experimenting with machine learning workflows  
 - ⚙️ Automating deployments and improving developer workflows with CI/CD
 
----
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/esteban-mora-5713761a2/)
 
----
 
 ## 📊 GitHub Stats
 
@@ -47,11 +43,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMoraG2002&layout=compact&theme=tokyonight)
 
----
 
 ## ✨ Quote for the Road
 
 **"Stay hungry, stay foolish" – Steve Jobs**
-
----
-
